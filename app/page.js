@@ -269,7 +269,7 @@ export default function Home() {
           boxShadow={2}
         >
           <Typography variant="h1" component="h1" align="center" color="primary.main" gutterBottom>
-            Let's get to know you
+            Let&apos;s get to know you
           </Typography>
 
           <TextField
